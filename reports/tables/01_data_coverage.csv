@@ -1,0 +1,6 @@
+﻿platform,source,first_day,last_day,sessions,prompts
+chatgpt,web,2023-02-27,2026-09-15,681,7500.0
+gemini,web,2026-06-09,2026-09-08,170,2773.0
+codex,cli,2026-07-19,2026-09-16,64,402.0
+claude_web,web,2026-08-03,2026-09-16,75,592.0
+claude_code,cli,2026-08-18,2026-09-16,64,1056.0

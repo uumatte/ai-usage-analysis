@@ -1,0 +1,13 @@
+# Private data: raw exports, parsed Parquet files, tags, database.
+# Never commit these - they contain the full chat history.
+Data/
+*.duckdb
+*.duckdb.wal
+
+# Python / Jupyter / editor clutter
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/

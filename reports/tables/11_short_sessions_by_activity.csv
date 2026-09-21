@@ -1,0 +1,11 @@
+﻿activity,sessions,median_prompts,short_pct
+lookup,362,2.0,54.7
+build,118,3.0,42.4
+debug,78,4.0,41.0
+create,32,3.0,37.5
+chat,137,5.0,35.8
+plan,44,5.0,31.8
+learn,125,5.0,31.2
+write,15,6.0,26.7
+advice,117,6.0,22.2
+play,26,11.5,15.4

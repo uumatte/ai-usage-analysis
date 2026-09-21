@@ -1,0 +1,6 @@
+﻿platform,source,sessions,one_prompt,up_to_two_prompts,short_pct
+codex,cli,64,27,35,54.7
+claude_code,cli,64,28,33,51.6
+claude_web,web,75,27,38,50.7
+chatgpt,web,681,161,269,39.5
+gemini,web,170,38,53,31.2

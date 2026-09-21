@@ -1,0 +1,12 @@
+pandas
+pyarrow
+duckdb
+tiktoken
+beautifulsoup4
+matplotlib
+plotly
+jupyterlab
+ipykernel
+pytest
+anthropic
+openai
