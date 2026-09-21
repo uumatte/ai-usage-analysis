@@ -1,6 +1,7 @@
-# Private data: raw exports, parsed Parquet files, tags, database.
-# Never commit these - they contain the full chat history.
+# Everything produced from a chat history stays local: raw exports, parsed
+# files, database, tags, and the figures and tables generated from them.
 Data/
+reports/
 *.duckdb
 *.duckdb.wal
 
