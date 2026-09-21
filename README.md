@@ -90,8 +90,6 @@ flowchart LR
 
 The queries answer things like: which vendor is used for which kind of work, how that changes over time, how deep sessions run per topic, which topics occur together, and how often a session is abandoned after one or two prompts.
 
-More detail: [`docs/data_quality.md`](docs/data_quality.md) (every issue and its fix), [`docs/sql_tasks.md`](docs/sql_tasks.md) (column definitions), [`docs/CODE_TOUR.md`](docs/CODE_TOUR.md) (reading order, in Chinese).
-
 ## Privacy
 
 This repository contains **code only**. Everything produced from a chat history stays local:
@@ -108,7 +106,6 @@ aiusage/          parsers, tagging, database build, report
   llm/            one backend per API provider
 sql/              load, sessions table, 17 analysis queries
 tests/            parser, SQL and tagging tests
-docs/             data quality, SQL definitions, code tour
 run_pipeline.py   end-to-end run
 ```
 

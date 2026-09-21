@@ -2,6 +2,8 @@
 # files, database, tags, and the figures and tables generated from them.
 Data/
 reports/
+docs/
+sql_practice*.ipynb
 *.duckdb
 *.duckdb.wal
 
